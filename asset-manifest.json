@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/M-JAdvice/static/css/main.7ab2dde9.css",
+    "main.js": "/M-JAdvice/static/js/main.377dea95.js",
+    "static/media/piano1.mp3": "/M-JAdvice/static/media/piano1.82e547b97168a26bf50e.mp3",
+    "static/media/bg.jpg": "/M-JAdvice/static/media/bg.16ff55e6618bf22c495a.jpg",
+    "index.html": "/M-JAdvice/index.html",
+    "main.7ab2dde9.css.map": "/M-JAdvice/static/css/main.7ab2dde9.css.map",
+    "main.377dea95.js.map": "/M-JAdvice/static/js/main.377dea95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab2dde9.css",
+    "static/js/main.377dea95.js"
+  ]
+}
