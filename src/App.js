@@ -2,7 +2,6 @@ import {
   Button,
   IconButton,
   Stack,
-  TextField,
   Typography,
 } from "@mui/material";
 import "./App.css";
@@ -30,13 +29,13 @@ function App() {
 
   return (
     <>
-      <IconButton
+      {giveMe && <IconButton
         onClick={() => setMute(!mute)}
         color="primary"
         sx={{ position: "absolute", top: 20, left: 20 }}
       >
         {mute ? <VolumeOff /> : <VolumeUp />}
-      </IconButton>
+      </IconButton>}
       <audio
         src={require("./piano1.mp3")}
         className="m"
